@@ -5,6 +5,7 @@ body {
     height: 100vh;
 }
 
+
 .outbox {
     width: 320px;
     height: 497px;
@@ -59,4 +60,12 @@ p{
     padding-right: 5px;
     font-weight: 400;
 
+}
+
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
 }
